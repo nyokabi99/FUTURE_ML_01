@@ -1,3 +1,11 @@
                                                PROBLEM: CLASSIFY SONGS BY MOOD
-tools used: Python(scikit-learn, Matplotlib, seaborn, pandas, k-means for unsupervised and Decesion Tree model for classification)
-Dataset: spotyfy Song Dataset 
+Tools used: Python
+scikit-learn, 
+Matplotlib, 
+seaborn, 
+pandas,
+k-means for unsupervised,
+Decesion Tree model for classification for unsupervised
+
+Dataset: 
+spotyfy Song Dataset 
