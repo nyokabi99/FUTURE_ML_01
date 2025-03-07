@@ -1,4 +1,4 @@
-                                             MOOD CLASSIFICATION OF SONGS USING SPOTYFY DTATSET
+                         MOOD CLASSIFICATION OF SONGS USING SPOTYFY DTATSET
 											 
 					 INTRODUCTION			 
 In this project we utilized a spotyfy dataset to classify songs into different mood categories based on  their audio features. We implemented a Decesion Tree
@@ -8,6 +8,7 @@ In this project we utilized a spotyfy dataset to classify songs into different m
 The dataset was obtained from spotyfy, containig various audio features for each song. The key features used for mood classification included: Energy,valence,
 instrumentalness,Tempo,Danceability,speechness,loudness...								
 
+                         DATA PREPROCESSING
 
 
 
